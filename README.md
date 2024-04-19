@@ -1,5 +1,5 @@
-CampusCOin Alternativas
-A CampusCOin nasceu da necessidade de transformar a vida de pessoas comuns. Por isso, nossa jornada é auxiliar no trajeto de nossos usuarios. Contamos com uma interface simples e intuitiva. Buscando trazer informacoes tratadas e analises precisas para facilitar a busca da tao sonhada liberadde financeira.
+CampusCoin Alternativas
+A CampusCoin nasceu da necessidade de transformar a vida de pessoas comuns. Por isso, nossa jornada é auxiliar no trajeto de nossos usuarios. Contamos com uma interface simples e intuitiva. Buscando trazer informacoes tratadas e analises precisas para facilitar a busca da tao sonhada liberadde financeira.
 
 ## Alunos integrantes da equipe
 
